@@ -1,16 +1,16 @@
-#Mr.clipboard
+<h1>Mr.clipboard</h1>
 <br />
 <img src="mrclipboard.jpg" />
 <br />
 Hijacking Clipboard Data By Link
 <br />
-#prerequisites
+<h1>prerequisites</h1>
 <pre>
 <code>$ apt update -y <br />
 $ apt install git php python openssh -y</code>
 </pre>
 <br />
-#run
+<h1>run</h1>
 <pre>
 <code>$ git clone https://hithub.com/mr0sploit/mrclipboard <br />
 $ cd mrclipboard <br />
